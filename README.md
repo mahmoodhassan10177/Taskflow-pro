@@ -10,7 +10,7 @@ A responsive task manager built with vanilla HTML, CSS and JavaScript.
 - Progress statistics and completion ring
 - Dark mode
 - LocalStorage persistence (your tasks stay in this browser)
-
+ 
 ## Run locally
 No installation or build step required. Open `index.html` in your browser.
  
