@@ -13,7 +13,7 @@ A responsive task manager built with vanilla HTML, CSS and JavaScript.
  
 ## Run locally
 No installation or build step required. Open `index.html` in your browser.
- 
+  
 ## Project structure
 - `index.html` — app structure.
 - `style.css` — responsive UI and themes.
